@@ -4,3 +4,6 @@ logs_*
 /library*.zip
 /svastara*
 /svastara1*
+.idea/
+library/
+test_output/
