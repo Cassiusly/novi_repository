@@ -7,3 +7,8 @@ logs_*
 .idea/
 library/
 test_output/
+*.users
+*.db
+*.properties
+*.keys
+*.pem
